@@ -59,14 +59,14 @@ height:30px
   <script src="http://d3js.org/d3.v3.min.js"></script>
   <script>
     $( document ).ready(function() {
-      var width = 3000,
-          height = 3000;
+      var width = 1500,
+          height = 1200;
 
       var color = d3.scale.category20();
 
       var force = d3.layout.force()
         .charge(-4000)
-        .linkDistance(200)
+        .linkDistance(100)
         .size([width, height]);
 
       var svg = d3.select("body").append("svg")
