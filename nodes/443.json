@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Shepard Fairey","id":443,"group":1,"radius":3,"color":"#666"},{"name":"Sticker Shock: Artists' Stickers","id":1823,"group":6,"radius":12},{"name":"CITYWIDE: Capturing Philadelphia's Community","id":4388,"group":4,"radius":14}],"links":[{"source":443,"target":1823,"weight":9},{"source":443,"target":4388,"weight":9}]}

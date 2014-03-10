@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Mr. Rhoades","id":2439,"group":12,"radius":3,"color":"#f44"},{"name":"Jason Rhoades","id":1237,"group":1,"radius":27},{"name":"Jason Rhoades, Four Roads","id":2399,"group":6,"radius":36}],"links":[{"source":2439,"target":1237,"weight":5},{"source":2439,"target":2399,"weight":6}]}

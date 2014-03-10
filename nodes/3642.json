@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Audience for Excursus Event","id":3642,"group":12,"radius":1,"color":"#f44"},{"name":"Connect","id":3336,"group":10,"radius":6}],"links":[{"source":3642,"target":3336,"weight":2}]}

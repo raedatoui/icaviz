@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Christo: Monuments and Projects","id":1997,"group":6,"radius":2,"color":"#00D773"},{"name":"Stephen S. Prokopoff","id":3231,"group":13,"radius":14},{"name":"Christo","id":5050,"group":12,"radius":1}],"links":[{"source":1997,"target":3231,"weight":0},{"source":1997,"target":5050,"weight":6}]}

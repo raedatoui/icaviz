@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Elizabeth Murray","id":1049,"group":1,"radius":2,"color":"#666"},{"name":"Devil on the Stairs: Looking Back on the Eighties","id":1876,"group":6,"radius":57},{"name":"Eight Abstract Painters","id":1957,"group":6,"radius":12}],"links":[{"source":1049,"target":1876,"weight":9},{"source":1049,"target":1957,"weight":9}]}

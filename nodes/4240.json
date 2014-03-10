@@ -1,0 +1,1 @@
+{"nodes":[{"name":"John Wind at ICA Benefit","id":4240,"group":12,"radius":1,"color":"#f44"},{"name":"Planned Giving","id":3623,"group":10,"radius":1}],"links":[{"source":4240,"target":3623,"weight":2}]}

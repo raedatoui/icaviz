@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Bugs-A","id":5028,"group":12,"radius":1,"color":"#f44"},{"name":"Doing the Minimum: A Visit to Penn's Rare Book Conservation Lab","id":5026,"group":4,"radius":5}],"links":[{"source":5028,"target":5026,"weight":6}]}

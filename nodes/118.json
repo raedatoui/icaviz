@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Robert Bechtle","id":118,"group":1,"radius":2,"color":"#666"},{"name":"Late Twentieth Century Art: From the Sydney and Frances Lewis Foundation","id":1951,"group":6,"radius":37},{"name":"The Highway","id":1991,"group":6,"radius":44}],"links":[{"source":118,"target":1951,"weight":9},{"source":118,"target":1991,"weight":9}]}

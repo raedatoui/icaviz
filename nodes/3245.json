@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Linda Cathcart","id":3245,"group":13,"radius":2,"color":"#888"},{"name":"Richard Artschwager's Theme(s)","id":1954,"group":6,"radius":7},{"name":"Richard Artschwager's Themes","id":2218,"group":9,"radius":4}],"links":[{"source":3245,"target":1954,"weight":0},{"source":3245,"target":2218,"weight":0}]}

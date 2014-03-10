@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Michael Becotte","id":119,"group":1,"radius":2,"color":"#666"},{"name":"Photography: Made in Philadelphia 5","id":1948,"group":6,"radius":27},{"name":"Some Twenty Odd Visions","id":1958,"group":6,"radius":26}],"links":[{"source":119,"target":1948,"weight":9},{"source":119,"target":1958,"weight":9}]}

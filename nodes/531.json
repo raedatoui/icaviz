@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Don Roger Gill","id":531,"group":1,"radius":2,"color":"#666"},{"name":"Made in Philadelphia 3","id":1947,"group":6,"radius":28},{"name":"Made in Philadelphia/In Urban Sites","id":1978,"group":6,"radius":19}],"links":[{"source":531,"target":1947,"weight":9},{"source":531,"target":1978,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Frankenstein Script","id":3030,"group":4,"radius":2,"color":"#fdff89"},{"name":"Queer Voice","id":1714,"group":6,"radius":44},{"name":"Miranda: Table in Queer Voice","id":4303,"group":12,"radius":1}],"links":[{"source":3030,"target":1714,"weight":12},{"source":3030,"target":4303,"weight":6}]}

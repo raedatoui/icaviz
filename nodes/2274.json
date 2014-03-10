@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jonathan Lasker: Paintings 1985-1992","id":2274,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Jonathan Lasker: Paintings 1985\u20131991","id":1863,"group":6,"radius":5},{"name":"Melissa E. Feldman","id":3265,"group":13,"radius":16}],"links":[{"source":2274,"target":1863,"weight":12},{"source":2274,"target":3265,"weight":0}]}

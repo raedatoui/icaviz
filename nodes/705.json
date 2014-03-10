@@ -1,0 +1,1 @@
+{"nodes":[{"name":"J\u00f6rg Immendorff","id":705,"group":1,"radius":2,"color":"#666"},{"name":"Devil on the Stairs: Looking Back on the Eighties","id":1876,"group":6,"radius":57},{"name":"Expressions/New Art from Germany","id":1927,"group":6,"radius":8}],"links":[{"source":705,"target":1876,"weight":9},{"source":705,"target":1927,"weight":9}]}

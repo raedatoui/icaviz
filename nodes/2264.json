@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Interactions","id":2264,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Interactions: Collaborations in the Visual and Performing Arts","id":1873,"group":6,"radius":49},{"name":"Judith Tannenbaum","id":3257,"group":13,"radius":63}],"links":[{"source":2264,"target":1873,"weight":12},{"source":2264,"target":3257,"weight":0}]}

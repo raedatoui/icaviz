@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Richard Nonas","id":1086,"group":1,"radius":2,"color":"#666"},{"name":"Painting Drawing and Sculpture of the '60s and the '70s from the Dorthy and Herbert Vogel Collection","id":1969,"group":6,"radius":108},{"name":"Six Visions","id":1979,"group":6,"radius":9}],"links":[{"source":1086,"target":1969,"weight":9},{"source":1086,"target":1979,"weight":9}]}

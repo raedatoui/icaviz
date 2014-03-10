@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Lisa Yuskavage","id":2317,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Lisa Yuskavage","id":1643,"group":1,"radius":5},{"name":"Lisa Yuskavage","id":1807,"group":6,"radius":6}],"links":[{"source":2317,"target":1643,"weight":9},{"source":2317,"target":1807,"weight":12}]}

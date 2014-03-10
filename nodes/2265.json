@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Philadelphia Art Now: Artists Choose Artists","id":2265,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Philadelphia Art Now: Artists Choose Artists","id":1874,"group":6,"radius":54},{"name":"Judith Tannenbaum","id":3257,"group":13,"radius":63}],"links":[{"source":2265,"target":1874,"weight":12},{"source":2265,"target":3257,"weight":0}]}

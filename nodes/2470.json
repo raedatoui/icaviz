@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Miranda: Grace-with-machine-A","id":2470,"group":12,"radius":1,"color":"#f44"},{"name":"Riso","id":2485,"group":4,"radius":8}],"links":[{"source":2470,"target":2485,"weight":6}]}

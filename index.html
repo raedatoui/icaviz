@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <style>
+
+.link {
+  stroke: #ccc;
+}
+.link10 { stroke: #ccc; stroke-width: 2px; stroke-dasharray: 3, 3; }
+.link1 { stroke: #000; stroke-width: 2px;}
+.nodetext { pointer-events: none;}
+
+.node.type1 {
+  fill:#690011;
+}
+.node.type2 {
+  fill:#BF0426;
+}
+.node.type3 {
+  fill:#E5B96F;
+}
+.node.type4 {
+  fill:#FFFFFF;
+  stroke:#1695A3;
+  stroke-width: 3px;
+}
+
+.node.type5 {
+  fill:#1BC9E0;
+}
+
+.node.type6 {
+  fill:#E01B98;
+}
+
+image.circle {
+  cursor:pointer;
+}
+
+.fadein{
+display:none;
+font-size:20px;
+}
+
+.rectD{
+background-color:#000000;
+width:70px;
+height:30px
+}
+  </style>
+</head>
+
+<body>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script>
+    $( document ).ready(function() {
+      var width = 3000,
+          height = 3000;
+
+      var color = d3.scale.category20();
+
+      var force = d3.layout.force()
+        .charge(-4000)
+        .linkDistance(200)
+        .size([width, height]);
+
+      var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+      var links, nodes;
+      loadGraph("nodes/1671.json");
+
+      function loadGraph(json) {
+        clearGraph();
+        d3.json(json, function(error, graph) {
+          drawGraph(graph);
+        });
+      }
+
+      function loadGraphs(jsons) {
+        clearGraph();
+        graph = {"nodes": [], "links": []};
+        j = 0;
+        for (var i = jsons.length - 1; i >= 0; i--) {
+          json = "nodes/"+jsons[i]+".json";
+          d3.json(json, function(error, data) {
+            graph.nodes = _.union(graph.nodes,data.nodes);
+            graph.links = _.union(graph.links,data.links);
+            j++;
+            if(j == jsons.length) {
+              graph.nodes = _.uniq(graph.nodes,function(item,key,a){
+                return item.id
+              })
+
+              drawGraph(graph);
+            }
+          });
+        };
+      }
+
+      function clearGraph() {
+        if(force.nodes().length > 0) {
+          links.remove();
+          nodes.remove();
+          force
+           .nodes([])
+           .links([])
+           .start();
+        }
+      }
+
+      function drawGraph(graph) {
+       var edges = [];
+
+        graph.links.forEach(function(e) {
+            // Get the source and target nodes
+          var sourceNode = graph.nodes.filter(function(n) { return n.id === e.source; })[0],
+              targetNode = graph.nodes.filter(function(n) { return n.id === e.target; })[0];
+
+          // Add the edge to the array
+          if(targetNode && sourceNode)
+          {
+            edges.push({source: sourceNode, target: targetNode, value: e.value});
+          }
+        });
+
+        force
+         .nodes(graph.nodes)
+         .links(edges)
+         .start();
+
+        links = svg.selectAll(".link")
+          .data(edges)
+          .enter().append("line")
+          .attr("class", "link")
+          .style("stroke-width", function(d) { return d.value/6; });
+
+        nodes = svg.selectAll('g.gnode')
+          .data(graph.nodes)
+          .enter()
+          .append('g')
+          .on("click", function(d,i) {
+            $("#current").text(d.id);
+            $("input[type='text'").val($("input[type='text'").val()+','+d.id);
+            loadGraph("nodes/"+d.id+".json")
+          })
+          .classed('gnode', true)
+          .call(force.drag);
+
+
+        nodes.append("circle")
+          .attr("class", "node")
+          .attr("r",  function(d) { return d.radius})
+          .style("fill", function(d) { return color(d.group); })
+
+
+        nodes.append("text")
+          .attr("class", "nodetext")
+          .attr("dx", 0)
+          .attr("dy", ".35em")
+          .style("font-size","10px")
+          .attr("text-anchor", "middle")
+          .style("fill", "black")
+          .text(function(d) { return d.name.substring(0,35); })
+          .call(force.drag);
+
+        nodes.on("mouseover", function (d) {
+          links
+          // .style('stroke-width', function(l) {
+          //   if (d === l.source || d === l.target)
+          //     return 4;
+          //   else
+          //     return 2;
+          // })
+          .style('stroke', function(l) {
+            if (d === l.source || d === l.target)
+              return "#fcc";
+            else
+              return "#ccc";
+          })
+          nodes
+          .attr('r', function(l) {
+            if (d === l.source || d === l.target)
+              return 10;
+            else
+              return l;
+          })
+          d3.select(this).select('text')
+            .transition()
+            .duration(300)
+            .text(function(d){
+              return d.name;
+            })
+            .style("font-size","15px");
+        })
+
+        nodes.on("mouseout", function (d) {
+          links
+            .style('stroke', '#ccc')
+            //  .style("stroke-width", function(e) { return e.value/6; });
+
+          d3.select(this).select('text')
+            .transition()
+            .duration(300)
+            .text(function(d){return d.name.substring(0,35);})
+            .style("font-size","10px")
+        })
+
+        force.on("tick", function() {
+          links.attr("x1", function(d) { return d.source.x; })
+              .attr("y1", function(d) { return d.source.y; })
+              .attr("x2", function(d) { return d.target.x; })
+              .attr("y2", function(d) { return d.target.y; });
+
+          nodes.attr("transform", function(d) {
+            return 'translate(' + [d.x, d.y] + ')';
+          });
+
+          // node.attr("cx", function(d) { return d.x; })
+          //     .attr("cy", function(d) { return d.y; });
+        });
+
+        var drag = d3.behavior.drag()
+          .on("drag", dragmove);
+      }
+
+      function dragmove(d) {
+        d3.select(this)
+          .style("top", ((d3.event.sourceEvent.pageY) - this.offsetHeight/2)+"px")
+          .style("left", ((d3.event.sourceEvent.pageX) - this.offsetWidth/2)+"px")
+      }
+
+      $("input[type='button']").on('click', function() {
+        loadGraphs($("input[type='text']").val().split(','));
+      })
+    });
+  </script>
+
+  <div id="actions">
+    <h3 id="current"></h3>
+    <input type="text" name="" value="">
+    <input type="button" name="" value="load">
+
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Greg Lynn","id":918,"group":1,"radius":2,"color":"#666"},{"name":"Intricacy","id":1785,"group":6,"radius":35},{"name":"Intricacy","id":2334,"group":9,"radius":3}],"links":[{"source":918,"target":1785,"weight":9},{"source":918,"target":2334,"weight":9}]}

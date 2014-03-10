@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Rudi Gernreich","id":519,"group":1,"radius":2,"color":"#666"},{"name":"Rudi Gernreich: Fashion Will Go Out of Fashion","id":1800,"group":6,"radius":4},{"name":"Rudi Gernreich: Fashion Will Go Out of Fashion","id":2326,"group":9,"radius":3}],"links":[{"source":519,"target":1800,"weight":9},{"source":519,"target":2326,"weight":9}]}

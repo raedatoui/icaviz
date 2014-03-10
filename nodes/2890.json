@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Miranda: Tank-shot","id":2890,"group":12,"radius":1,"color":"#f44"},{"name":"PechaKucha(ish) Night: The Love of Doing","id":2891,"group":4,"radius":5}],"links":[{"source":2890,"target":2891,"weight":6}]}

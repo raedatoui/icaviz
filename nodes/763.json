@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Allan Kaprow","id":763,"group":1,"radius":2,"color":"#666"},{"name":"Against Order: Chance and Art","id":1989,"group":6,"radius":61},{"name":"The Secret Cinema presents *Art for Art's Sake*","id":2191,"group":7,"radius":9}],"links":[{"source":763,"target":1989,"weight":9},{"source":763,"target":2191,"weight":9}]}

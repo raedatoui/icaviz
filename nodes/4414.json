@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Billy Dufala","id":4414,"group":1,"radius":2,"color":"#666"},{"name":"\u201cHooverville Torqued Ellipse\u201d: What\u2019s In Stars","id":2397,"group":4,"radius":10},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120}],"links":[{"source":4414,"target":2397,"weight":9},{"source":4414,"target":3580,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"ICA map","id":4477,"group":12,"radius":1,"color":"#f44"},{"name":"Directions","id":3332,"group":10,"radius":2}],"links":[{"source":4477,"target":3332,"weight":2}]}

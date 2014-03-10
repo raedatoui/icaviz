@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Susan Hiller: Wild Talents","id":2305,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Susan Hiller","id":654,"group":1,"radius":2},{"name":"Susan Hiller: Wild Talents","id":1827,"group":6,"radius":5}],"links":[{"source":2305,"target":654,"weight":9},{"source":2305,"target":1827,"weight":12}]}

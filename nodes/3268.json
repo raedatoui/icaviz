@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Tom Finkelpearl","id":3268,"group":13,"radius":2,"color":"#888"},{"name":"David Hammons 1969\u20131990: Rousing the Rubble","id":1870,"group":6,"radius":4},{"name":"People\u2019s Conference, Part II: Art in Your Own Back Yard","id":2775,"group":4,"radius":9}],"links":[{"source":3268,"target":1870,"weight":0},{"source":3268,"target":2775,"weight":0}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Sticker Shock","id":2309,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Sticker Shock: Artists' Stickers","id":1823,"group":6,"radius":12},{"name":"Alex Baker","id":3292,"group":13,"radius":8}],"links":[{"source":2309,"target":1823,"weight":12},{"source":2309,"target":3292,"weight":0}]}

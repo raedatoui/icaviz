@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Scott Burton","id":223,"group":1,"radius":2,"color":"#666"},{"name":"Material Pleasures: The Fabric Workshop at ICA","id":1953,"group":6,"radius":24},{"name":"Improbable Furniture","id":1962,"group":6,"radius":35}],"links":[{"source":223,"target":1953,"weight":9},{"source":223,"target":1962,"weight":9}]}

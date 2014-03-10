@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Miranda: carrying large object","id":3020,"group":12,"radius":1,"color":"#f44"},{"name":"Big Truck Unloading","id":2942,"group":4,"radius":4}],"links":[{"source":3020,"target":2942,"weight":6}]}

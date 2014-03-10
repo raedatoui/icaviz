@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Mei-ling Hom","id":674,"group":1,"radius":2,"color":"#666"},{"name":"Mei-Ling Hom: \"Silkworm Grind\"","id":1808,"group":6,"radius":2},{"name":"Philadelphia Art Now: Artists Choose Artists","id":1874,"group":6,"radius":54}],"links":[{"source":674,"target":1808,"weight":9},{"source":674,"target":1874,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Marilyn","id":2909,"group":4,"radius":2,"color":"#fdff89"},{"name":"Miranda: Marilyn-more-formal","id":2907,"group":12,"radius":1},{"name":"Miranda: Marilyn-looking-to-side","id":2908,"group":12,"radius":1}],"links":[{"source":2909,"target":2907,"weight":6},{"source":2909,"target":2908,"weight":6}]}

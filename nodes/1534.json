@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Victor Vasarely","id":1534,"group":1,"radius":2,"color":"#666"},{"name":"A Selection of American and European Paintings from the Richard Brown Baker Collection","id":1976,"group":6,"radius":78},{"name":"New Art in Philadelphia","id":2004,"group":6,"radius":56}],"links":[{"source":1534,"target":1976,"weight":9},{"source":1534,"target":2004,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"De light: Helen Chadwick","id":2262,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Helen Chadwick","id":263,"group":1,"radius":3},{"name":"De light: Helen Chadwick","id":1871,"group":6,"radius":5}],"links":[{"source":2262,"target":263,"weight":9},{"source":2262,"target":1871,"weight":12}]}

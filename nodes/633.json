@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Seamus Heaney","id":633,"group":1,"radius":2,"color":"#666"},{"name":"Miroslaw Balka, Robert Gober, and Seamus Heaney: Three Stanzas","id":1822,"group":6,"radius":9},{"name":"Three Stanzas: Miroslava Balka, Robert Gover, Seamus Heaney","id":2312,"group":9,"radius":5}],"links":[{"source":633,"target":1822,"weight":9},{"source":633,"target":2312,"weight":9}]}

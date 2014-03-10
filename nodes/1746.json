@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Nicole Cherubini","id":1746,"group":6,"radius":2,"color":"#00D773"},{"name":"Nicole Cherubini","id":271,"group":1,"radius":2},{"name":"Nicole Cherubini, 2007","id":4909,"group":12,"radius":1}],"links":[{"source":1746,"target":271,"weight":9},{"source":1746,"target":4909,"weight":6}]}

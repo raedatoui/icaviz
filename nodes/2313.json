@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Against Design","id":2313,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Pae White","id":1591,"group":1,"radius":2},{"name":"Against Design","id":1814,"group":6,"radius":16}],"links":[{"source":2313,"target":1591,"weight":9},{"source":2313,"target":1814,"weight":12}]}

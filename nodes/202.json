@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Andr\u00e9 Breton","id":202,"group":1,"radius":2,"color":"#666"},{"name":"The Other Tradition","id":2005,"group":6,"radius":41},{"name":"His Twine: Marcel Duchamp and the Limits of Exhibition History","id":2614,"group":4,"radius":5}],"links":[{"source":202,"target":2005,"weight":9},{"source":202,"target":2614,"weight":9}]}

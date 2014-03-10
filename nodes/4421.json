@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Major Jackson","id":4421,"group":1,"radius":2,"color":"#666"},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120},{"name":"ICA@50: Seven Writers","id":4499,"group":7,"radius":10}],"links":[{"source":4421,"target":3580,"weight":9},{"source":4421,"target":4499,"weight":9}]}

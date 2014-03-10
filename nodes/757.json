@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Stanya Kahn","id":757,"group":1,"radius":2,"color":"#666"},{"name":"Queer Voice","id":1714,"group":6,"radius":44},{"name":"Video Art: Replay, Part 3. Ludicrous!","id":1715,"group":6,"radius":32}],"links":[{"source":757,"target":1714,"weight":9},{"source":757,"target":1715,"weight":9}]}

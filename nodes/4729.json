@@ -1,0 +1,1 @@
+{"nodes":[{"name":"1965_Andy_Warhol.jpg","id":4729,"group":12,"radius":2,"color":"#f44"},{"name":"Andy Warhol","id":1561,"group":1,"radius":36},{"name":"Andy Warhol","id":2008,"group":6,"radius":14}],"links":[{"source":4729,"target":1561,"weight":5},{"source":4729,"target":2008,"weight":6}]}

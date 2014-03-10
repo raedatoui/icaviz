@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Walter Darby Bannard","id":95,"group":1,"radius":2,"color":"#666"},{"name":"A Selection of American and European Paintings from the Richard Brown Baker Collection","id":1976,"group":6,"radius":78},{"name":"Two Generations of Color Painting","id":1992,"group":6,"radius":25}],"links":[{"source":95,"target":1976,"weight":9},{"source":95,"target":1992,"weight":9}]}

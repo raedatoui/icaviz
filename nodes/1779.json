@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Strange Messenger: The Work of Patti Smith","id":1779,"group":6,"radius":2,"color":"#00D773"},{"name":"John Smith","id":1383,"group":1,"radius":3},{"name":"Patti Smith","id":1389,"group":1,"radius":1}],"links":[{"source":1779,"target":1383,"weight":9},{"source":1779,"target":1389,"weight":9}]}

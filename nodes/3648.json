@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Visitors looking at Jeremy Deller","id":3648,"group":12,"radius":1,"color":"#f44"},{"name":"Connect","id":3336,"group":10,"radius":6}],"links":[{"source":3648,"target":3336,"weight":2}]}

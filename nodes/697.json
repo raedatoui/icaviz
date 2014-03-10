@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jessica Jackson Hutchins","id":697,"group":1,"radius":2,"color":"#666"},{"name":"Dirt On Delight: Impulses That Form Clay","id":1724,"group":6,"radius":25},{"name":"Gone Formalism","id":1756,"group":6,"radius":12}],"links":[{"source":697,"target":1724,"weight":9},{"source":697,"target":1756,"weight":9}]}

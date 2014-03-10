@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ayurveda Workshop with Balarama Chandra Das","id":2194,"group":7,"radius":2,"color":"#1E1E1E"},{"name":"Kate Kraczon","id":1672,"group":2,"radius":51},{"name":"Ayurveda Workshop with Balarama Chandra Das.jpg","id":3468,"group":12,"radius":1}],"links":[{"source":2194,"target":1672,"weight":0},{"source":2194,"target":3468,"weight":6}]}

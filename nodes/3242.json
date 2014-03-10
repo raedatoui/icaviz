@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Michael A. Quigley","id":3242,"group":13,"radius":2,"color":"#888"},{"name":"Material Pleasures: The Fabric Workshop at ICA","id":1953,"group":6,"radius":24},{"name":"Material Pleasures: The Fabric Workshop","id":2217,"group":9,"radius":2}],"links":[{"source":3242,"target":1953,"weight":0},{"source":3242,"target":2217,"weight":0}]}

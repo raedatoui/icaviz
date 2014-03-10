@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Lewis Baltz","id":93,"group":1,"radius":2,"color":"#666"},{"name":"Photography After Photography: Memory and Representation in the Digital Age","id":1829,"group":6,"radius":39},{"name":"Signs of Life: Process and Materials 1960\u20131990","id":1878,"group":6,"radius":27}],"links":[{"source":93,"target":1829,"weight":9},{"source":93,"target":1878,"weight":9}]}

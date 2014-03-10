@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Student Board","id":4964,"group":10,"radius":2,"color":"#6E6E6E"},{"name":"Day With(out) Art","id":2016,"group":7,"radius":5},{"name":"ICA Student Board 2013/14","id":4965,"group":12,"radius":1}],"links":[{"source":4964,"target":2016,"weight":0},{"source":4964,"target":4965,"weight":2}]}

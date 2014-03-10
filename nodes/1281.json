@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Mark Rothko","id":1281,"group":1,"radius":2,"color":"#666"},{"name":"Selected Works from the Collection of Mr. and Mrs. H. Gates Lloyd","id":2003,"group":6,"radius":34},{"name":"1943\u20131953: The Decisive Years","id":2010,"group":6,"radius":8}],"links":[{"source":1281,"target":2003,"weight":9},{"source":1281,"target":2010,"weight":9}]}

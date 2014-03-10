@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ryan Trecartin","id":1508,"group":1,"radius":2,"color":"#666"},{"name":"Queer Voice","id":1714,"group":6,"radius":44},{"name":"Ambassador of Art","id":2997,"group":4,"radius":5}],"links":[{"source":1508,"target":1714,"weight":9},{"source":1508,"target":2997,"weight":9}]}

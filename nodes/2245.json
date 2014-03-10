@@ -1,0 +1,1 @@
+{"nodes":[{"name":"David Salle","id":2245,"group":9,"radius":3,"color":"#93F9C8"},{"name":"David Salle","id":1297,"group":1,"radius":5},{"name":"David Salle","id":1904,"group":6,"radius":5},{"name":"Janet Kardon","id":3243,"group":13,"radius":44}],"links":[{"source":2245,"target":1297,"weight":9},{"source":2245,"target":1904,"weight":12},{"source":2245,"target":3243,"weight":0}]}

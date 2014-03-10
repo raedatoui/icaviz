@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Alfred Leslie","id":872,"group":1,"radius":2,"color":"#666"},{"name":"1967: At the Crossroads","id":1896,"group":6,"radius":39},{"name":"Late Twentieth Century Art: From the Sydney and Frances Lewis Foundation","id":1951,"group":6,"radius":37}],"links":[{"source":872,"target":1896,"weight":9},{"source":872,"target":1951,"weight":9}]}

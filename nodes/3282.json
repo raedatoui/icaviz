@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Andrea Kirsh","id":3282,"group":13,"radius":2,"color":"#888"},{"name":"Carrie Mae Weems","id":1847,"group":6,"radius":6},{"name":"Carrie Mae Weems","id":2277,"group":9,"radius":3}],"links":[{"source":3282,"target":1847,"weight":0},{"source":3282,"target":2277,"weight":0}]}

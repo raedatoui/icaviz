@@ -1,0 +1,1 @@
+{"nodes":[{"name":"John F. Bennett","id":129,"group":1,"radius":1,"color":"#666"},{"name":"Plastics and New Art","id":1994,"group":6,"radius":22}],"links":[{"source":129,"target":1994,"weight":9}]}

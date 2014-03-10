@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Patricia McCabe","id":970,"group":1,"radius":2,"color":"#666"},{"name":"Made in Philadelphia 7","id":1900,"group":6,"radius":32},{"name":"People\u2019s Biennial & Conference (part I): Looking for art on the road in America","id":2774,"group":4,"radius":9}],"links":[{"source":970,"target":1900,"weight":9},{"source":970,"target":2774,"weight":9}]}

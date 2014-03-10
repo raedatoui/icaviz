@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Thomas Ruff","id":1285,"group":1,"radius":2,"color":"#666"},{"name":"S(how): ICA Art History Project","id":1782,"group":6,"radius":9},{"name":"Face-Off: The Portrait in Recent Art","id":1844,"group":6,"radius":24}],"links":[{"source":1285,"target":1782,"weight":9},{"source":1285,"target":1844,"weight":9}]}

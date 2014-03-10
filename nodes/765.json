@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Nina Katchadourian","id":765,"group":1,"radius":2,"color":"#666"},{"name":"Ensemble","id":1738,"group":6,"radius":43},{"name":"S(how): ICA Art History Project","id":1782,"group":6,"radius":9}],"links":[{"source":765,"target":1738,"weight":9},{"source":765,"target":1782,"weight":9}]}

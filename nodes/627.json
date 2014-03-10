@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Tom Hatten","id":627,"group":1,"radius":2,"color":"#666"},{"name":"Made in Philadelphia 3","id":1947,"group":6,"radius":28},{"name":"Made in Philadelphia 2","id":1974,"group":6,"radius":20}],"links":[{"source":627,"target":1947,"weight":9},{"source":627,"target":1974,"weight":9}]}

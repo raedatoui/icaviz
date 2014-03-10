@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Bill Viola: Slowly Turning Narrative","id":2269,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Bill Viola","id":1543,"group":1,"radius":2},{"name":"Bill Viola: Slowly Turning Narrative","id":1860,"group":6,"radius":7}],"links":[{"source":2269,"target":1543,"weight":9},{"source":2269,"target":1860,"weight":12}]}

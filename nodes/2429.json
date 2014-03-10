@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Deana Lawson","id":2429,"group":1,"radius":2,"color":"#666"},{"name":"Ruffneck Constructivists","id":2402,"group":6,"radius":43},{"name":"Ruffneck Constructivists: Deana Lawson, Jouvert","id":4314,"group":12,"radius":4}],"links":[{"source":2429,"target":2402,"weight":9},{"source":2429,"target":4314,"weight":5}]}

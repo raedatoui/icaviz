@@ -1,0 +1,1 @@
+{"nodes":[{"name":"The Bird and the Dirt","id":1482,"group":1,"radius":2,"color":"#666"},{"name":"Pieces & Performances","id":1970,"group":6,"radius":7},{"name":"Pieces & Performances: Ann Wilson, The Bird and The Dirt, Jared Bark ","id":2206,"group":9,"radius":3}],"links":[{"source":1482,"target":1970,"weight":9},{"source":1482,"target":2206,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Fia Backstr\u00f6m","id":82,"group":1,"radius":2,"color":"#666"},{"name":"Ensemble","id":1738,"group":6,"radius":43},{"name":"PennDesign Fine Arts Lecture Series: Fia Backstr\u00f6m","id":2090,"group":7,"radius":10}],"links":[{"source":82,"target":1738,"weight":9},{"source":82,"target":2090,"weight":9}]}

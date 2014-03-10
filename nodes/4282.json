@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Zenas Hutcheson","id":4282,"group":1,"radius":2,"color":"#666"},{"name":"Open Video Call 2013/2014","id":2023,"group":7,"radius":16},{"name":"Open Video Call 2013/2014: Selected Works","id":2404,"group":6,"radius":23}],"links":[{"source":4282,"target":2023,"weight":9},{"source":4282,"target":2404,"weight":9}]}

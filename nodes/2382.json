@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Sheila Hicks: 50 Years","id":2382,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Sheila Hicks","id":651,"group":1,"radius":11},{"name":"Sheila Hicks: 50 Years","id":1707,"group":6,"radius":12}],"links":[{"source":2382,"target":651,"weight":9},{"source":2382,"target":1707,"weight":12}]}

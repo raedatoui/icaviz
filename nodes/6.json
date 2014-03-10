@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Alice Adams","id":6,"group":1,"radius":1,"color":"#666"},{"name":"Dwellings","id":1956,"group":6,"radius":19}],"links":[{"source":6,"target":1956,"weight":9}]}

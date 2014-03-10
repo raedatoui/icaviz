@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ed Paschke","id":1135,"group":1,"radius":2,"color":"#666"},{"name":"Late Twentieth Century Art: From the Sydney and Frances Lewis Foundation","id":1951,"group":6,"radius":37},{"name":"The Spirit of the Comics","id":1995,"group":6,"radius":54}],"links":[{"source":1135,"target":1951,"weight":9},{"source":1135,"target":1995,"weight":9}]}

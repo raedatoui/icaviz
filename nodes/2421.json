@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Serial Killer","id":2421,"group":12,"radius":2,"color":"#f44"},{"name":"First Among Equals","id":1695,"group":6,"radius":54},{"name":"Kathryn Andrews","id":2415,"group":1,"radius":12}],"links":[{"source":2421,"target":1695,"weight":6},{"source":2421,"target":2415,"weight":5}]}

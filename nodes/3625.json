@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Art 21","id":3625,"group":12,"radius":1,"color":"#f44"},{"name":"Screening: *Art21*","id":2121,"group":7,"radius":6}],"links":[{"source":3625,"target":2121,"weight":6}]}

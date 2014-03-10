@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Liz Park","id":4043,"group":2,"radius":2,"color":"#333"},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120},{"name":"Josh Kline, Benjamin Tiven, and Noa Giniger in Conversation About Nothing","id":5152,"group":7,"radius":7}],"links":[{"source":4043,"target":3580,"weight":0},{"source":4043,"target":5152,"weight":0}]}

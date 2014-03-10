@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ned Rifkin","id":3254,"group":13,"radius":2,"color":"#888"},{"name":"Made in Philadelphia 6","id":1924,"group":6,"radius":29},{"name":"Made in Philadelphia 6","id":2239,"group":9,"radius":13}],"links":[{"source":3254,"target":1924,"weight":0},{"source":3254,"target":2239,"weight":0}]}

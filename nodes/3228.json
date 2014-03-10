@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ti-Grace Sharpless","id":3228,"group":13,"radius":2,"color":"#888"},{"name":"The Atmosphere of '64","id":2013,"group":6,"radius":17},{"name":"Clyfford Still","id":2014,"group":6,"radius":9}],"links":[{"source":3228,"target":2013,"weight":0},{"source":3228,"target":2014,"weight":0}]}

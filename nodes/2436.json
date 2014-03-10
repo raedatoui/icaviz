@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jenny Holzer, Parking Meter Stickers","id":2436,"group":12,"radius":2,"color":"#f44"},{"name":"Jenny Holzer","id":673,"group":1,"radius":4},{"name":"Investigations 3: Jenny Holzer","id":1930,"group":6,"radius":24}],"links":[{"source":2436,"target":673,"weight":5},{"source":2436,"target":1930,"weight":6}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"k011","id":3600,"group":12,"radius":1,"color":"#f44"},{"name":"Excursus I: Karma Bookshop","id":2169,"group":7,"radius":15}],"links":[{"source":3600,"target":2169,"weight":6}]}

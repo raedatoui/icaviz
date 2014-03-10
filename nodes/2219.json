@@ -1,0 +1,1 @@
+{"nodes":[{"name":"The Decorative Impulse","id":2219,"group":9,"radius":2,"color":"#93F9C8"},{"name":"The Decorative Impulse","id":1955,"group":6,"radius":15},{"name":"Janet Kardon","id":3243,"group":13,"radius":44}],"links":[{"source":2219,"target":1955,"weight":12},{"source":2219,"target":3243,"weight":0}]}

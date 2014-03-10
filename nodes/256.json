@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Enrico Castellani","id":256,"group":1,"radius":2,"color":"#666"},{"name":"New Art in Philadelphia","id":2004,"group":6,"radius":56},{"name":"Group Zero","id":2012,"group":6,"radius":34}],"links":[{"source":256,"target":2004,"weight":9},{"source":256,"target":2012,"weight":9}]}

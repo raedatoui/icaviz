@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Summer Studio Class","id":3649,"group":12,"radius":1,"color":"#f44"},{"name":"Connect","id":3336,"group":10,"radius":6}],"links":[{"source":3649,"target":3336,"weight":2}]}

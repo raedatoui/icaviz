@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Angela Bulloch","id":215,"group":1,"radius":2,"color":"#666"},{"name":"Ensemble","id":1738,"group":6,"radius":43},{"name":"Against Design","id":1814,"group":6,"radius":16}],"links":[{"source":215,"target":1738,"weight":9},{"source":215,"target":1814,"weight":9}]}

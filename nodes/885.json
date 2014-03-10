@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Alexander Liberman","id":885,"group":1,"radius":2,"color":"#666"},{"name":"Art for the City","id":2001,"group":6,"radius":20},{"name":"7 Sculptors","id":2007,"group":6,"radius":13}],"links":[{"source":885,"target":2001,"weight":9},{"source":885,"target":2007,"weight":9}]}

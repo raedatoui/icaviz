@@ -1,0 +1,1 @@
+{"nodes":[{"name":"ICA Student Board 2013/14","id":4965,"group":12,"radius":1,"color":"#f44"},{"name":"Student Board","id":4964,"group":10,"radius":2}],"links":[{"source":4965,"target":4964,"weight":2}]}

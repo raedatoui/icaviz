@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Dona Nelson","id":3573,"group":1,"radius":2,"color":"#666"},{"name":"Grids","id":1980,"group":6,"radius":29},{"name":"ICA Salon: Approaching Imagery","id":2184,"group":7,"radius":12}],"links":[{"source":3573,"target":1980,"weight":9},{"source":3573,"target":2184,"weight":9}]}

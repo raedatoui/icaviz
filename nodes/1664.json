@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Dana Fedeli","id":1664,"group":2,"radius":2,"color":"#333"},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120},{"name":"ICA@50: Closing Party","id":5153,"group":7,"radius":6}],"links":[{"source":1664,"target":3580,"weight":0},{"source":1664,"target":5153,"weight":0}]}

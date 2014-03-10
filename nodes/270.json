@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Alan Charlton","id":270,"group":1,"radius":2,"color":"#666"},{"name":"Conversation Pieces","id":1848,"group":6,"radius":8},{"name":"Conversation Pieces","id":2283,"group":9,"radius":7}],"links":[{"source":270,"target":1848,"weight":9},{"source":270,"target":2283,"weight":9}]}

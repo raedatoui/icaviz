@@ -1,0 +1,1 @@
+{"nodes":[{"name":"High Flying","id":2278,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Homer Jackson","id":717,"group":1,"radius":3},{"name":"Homer Jackson: High Flying (Investigations series)","id":1854,"group":6,"radius":56}],"links":[{"source":2278,"target":717,"weight":9},{"source":2278,"target":1854,"weight":12}]}

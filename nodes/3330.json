@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Hours","id":3330,"group":10,"radius":1,"color":"#6E6E6E"},{"name":"Visitors at an Opening","id":3671,"group":12,"radius":1}],"links":[{"source":3330,"target":3671,"weight":2}]}

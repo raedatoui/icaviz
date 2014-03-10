@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jennifer Bartlett","id":104,"group":1,"radius":2,"color":"#666"},{"name":"Drawings: The Pluralist Decade","id":1944,"group":6,"radius":73},{"name":"Urban Encounters: Art Architecture Audience","id":1950,"group":6,"radius":26}],"links":[{"source":104,"target":1944,"weight":9},{"source":104,"target":1950,"weight":9}]}

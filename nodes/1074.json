@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Barnett Newman","id":1074,"group":1,"radius":2,"color":"#666"},{"name":"1967: At the Crossroads","id":1896,"group":6,"radius":39},{"name":"1943\u20131953: The Decisive Years","id":2010,"group":6,"radius":8}],"links":[{"source":1074,"target":1896,"weight":9},{"source":1074,"target":2010,"weight":9}]}

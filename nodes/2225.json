@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Urban Encounters: Art Architecture Audience","id":2225,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Urban Encounters: Art Architecture Audience","id":1950,"group":6,"radius":26},{"name":"Janet Kardon","id":3243,"group":13,"radius":44}],"links":[{"source":2225,"target":1950,"weight":12},{"source":2225,"target":3243,"weight":0}]}

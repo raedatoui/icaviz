@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Walker Evans","id":436,"group":1,"radius":2,"color":"#666"},{"name":"Fleeting Gestures: Treasures of Dance Photography","id":1945,"group":6,"radius":19},{"name":"The Highway","id":1991,"group":6,"radius":44}],"links":[{"source":436,"target":1945,"weight":9},{"source":436,"target":1991,"weight":9}]}

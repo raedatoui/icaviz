@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Sam Francis","id":488,"group":1,"radius":2,"color":"#666"},{"name":"Against Order: Chance and Art","id":1989,"group":6,"radius":61},{"name":"Selected Works from the Collection of Mr. and Mrs. H. Gates Lloyd","id":2003,"group":6,"radius":34}],"links":[{"source":488,"target":1989,"weight":9},{"source":488,"target":2003,"weight":9}]}

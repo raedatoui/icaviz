@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Laurie Anderson","id":2437,"group":12,"radius":2,"color":"#f44"},{"name":"Laurie Anderson","id":39,"group":1,"radius":8},{"name":"Laurie Anderson: Works from 1969\u20131983","id":1933,"group":6,"radius":6}],"links":[{"source":2437,"target":39,"weight":5},{"source":2437,"target":1933,"weight":6}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ingrid Schaffner with Group","id":3670,"group":12,"radius":1,"color":"#f44"},{"name":"Donor Clubs","id":3618,"group":10,"radius":5}],"links":[{"source":3670,"target":3618,"weight":2}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Stacy Levy","id":2303,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Judith Tannenbaum","id":3257,"group":13,"radius":63},{"name":"Stacy Levy","id":4081,"group":6,"radius":3}],"links":[{"source":2303,"target":3257,"weight":0},{"source":2303,"target":4081,"weight":12}]}

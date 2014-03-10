@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Henry Moore","id":1023,"group":1,"radius":1,"color":"#666"},{"name":"Selected Works from the Collection of Mr. and Mrs. H. Gates Lloyd","id":2003,"group":6,"radius":34}],"links":[{"source":1023,"target":2003,"weight":9}]}

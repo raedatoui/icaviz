@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Siah Armajani","id":2243,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Siah Armajani: Bridges Houses Communal Spaces Dictionary for Building","id":1917,"group":6,"radius":5},{"name":"Janet Kardon","id":3243,"group":13,"radius":44}],"links":[{"source":2243,"target":1917,"weight":12},{"source":2243,"target":3243,"weight":0}]}

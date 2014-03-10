@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Charles Simonds","id":1374,"group":1,"radius":2,"color":"#666"},{"name":"Masks/ Tents/ Vessels/ Talismans","id":1952,"group":6,"radius":17},{"name":"Dwellings","id":1956,"group":6,"radius":19}],"links":[{"source":1374,"target":1952,"weight":9},{"source":1374,"target":1956,"weight":9}]}

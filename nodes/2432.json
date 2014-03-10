@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Andy Warhol - View Number 32","id":2432,"group":12,"radius":2,"color":"#f44"},{"name":"Andy Warhol","id":1561,"group":1,"radius":36},{"name":"Andy Warhol: Works from 1961\u20131965","id":1879,"group":6,"radius":13}],"links":[{"source":2432,"target":1561,"weight":5},{"source":2432,"target":1879,"weight":6}]}

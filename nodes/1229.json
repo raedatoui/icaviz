@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Steve Reich","id":1229,"group":1,"radius":2,"color":"#666"},{"name":"Each One As She May: Ligon, Reich, & De Keersmaeker","id":1687,"group":6,"radius":12},{"name":"Drawings: The Pluralist Decade","id":1944,"group":6,"radius":73}],"links":[{"source":1229,"target":1687,"weight":9},{"source":1229,"target":1944,"weight":9}]}

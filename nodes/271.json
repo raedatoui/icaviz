@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Nicole Cherubini","id":271,"group":1,"radius":2,"color":"#666"},{"name":"Dirt On Delight: Impulses That Form Clay","id":1724,"group":6,"radius":25},{"name":"Nicole Cherubini","id":1746,"group":6,"radius":2}],"links":[{"source":271,"target":1724,"weight":9},{"source":271,"target":1746,"weight":9}]}

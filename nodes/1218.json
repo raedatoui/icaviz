@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Charles Ray","id":1218,"group":1,"radius":2,"color":"#666"},{"name":"PerForms: Janine Antoni, Charles Ray, Jana Sterbak","id":1842,"group":6,"radius":8},{"name":"Face-Off: The Portrait in Recent Art","id":1844,"group":6,"radius":24}],"links":[{"source":1218,"target":1842,"weight":9},{"source":1218,"target":1844,"weight":9}]}

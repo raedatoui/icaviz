@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Matthew McClain","id":3248,"group":13,"radius":2,"color":"#888"},{"name":"Made in Philadelphia 3","id":1947,"group":6,"radius":28},{"name":"Made in Philadelphia 3","id":2221,"group":9,"radius":15}],"links":[{"source":3248,"target":1947,"weight":0},{"source":3248,"target":2221,"weight":0}]}

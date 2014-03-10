@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Linda Yun: there's a universe in your head that leaks from your eyes and mouth and hands","id":5119,"group":3,"radius":2,"color":"#0064F0"},{"name":"Kate Kraczon","id":1672,"group":2,"radius":51},{"name":"A Romantic Minimalism","id":5052,"group":12,"radius":2}],"links":[{"source":5119,"target":1672,"weight":0},{"source":5119,"target":5052,"weight":6}]}

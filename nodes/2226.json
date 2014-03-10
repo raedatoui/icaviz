@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Machineworks: Vito Acconci, Alice Aycock, Dennis Oppenheim","id":2226,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Machineworks","id":1941,"group":6,"radius":8},{"name":"Janet Kardon","id":3243,"group":13,"radius":44}],"links":[{"source":2226,"target":1941,"weight":12},{"source":2226,"target":3243,"weight":0}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Marge Goldwater","id":3260,"group":13,"radius":2,"color":"#888"},{"name":"Past/Imperfect: Eric Fischl, Vernon Fisher, Laurie Simmons","id":1893,"group":6,"radius":7},{"name":"Past, Imperfect: Eric Fischl, Vernon Fisher, Laurie Simmons","id":2251,"group":9,"radius":2}],"links":[{"source":3260,"target":1893,"weight":0},{"source":3260,"target":2251,"weight":0}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Morris Graves","id":582,"group":1,"radius":2,"color":"#666"},{"name":"Improbable Furniture","id":1962,"group":6,"radius":35},{"name":"Selected Works from the Collection of Mr. and Mrs. H. Gates Lloyd","id":2003,"group":6,"radius":34}],"links":[{"source":582,"target":1962,"weight":9},{"source":582,"target":2003,"weight":9}]}

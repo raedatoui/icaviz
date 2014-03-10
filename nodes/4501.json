@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Opening Celebration: Ruffneck Constructivists ","id":4501,"group":7,"radius":2,"color":"#1E1E1E"},{"name":"Ruffneck Constructivists","id":2402,"group":6,"radius":43},{"name":"Ruffneck Constructivists: Deana Lawson, Jouvert","id":4314,"group":12,"radius":4}],"links":[{"source":4501,"target":2402,"weight":12},{"source":4501,"target":4314,"weight":6}]}

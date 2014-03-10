@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Andres Serrano: Works 1983 - 1993","id":2282,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Andres Serrano: Works 1983\u20131993","id":1845,"group":6,"radius":6},{"name":"Patrick T. Murphy","id":3269,"group":13,"radius":22}],"links":[{"source":2282,"target":1845,"weight":12},{"source":2282,"target":3269,"weight":0}]}

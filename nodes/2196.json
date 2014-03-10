@@ -1,0 +1,1 @@
+{"nodes":[{"name":"7 Sculptors","id":2196,"group":9,"radius":2,"color":"#93F9C8"},{"name":"7 Sculptors","id":2007,"group":6,"radius":13},{"name":"Samuel Adams Green","id":3229,"group":13,"radius":10}],"links":[{"source":2196,"target":2007,"weight":12},{"source":2196,"target":3229,"weight":0}]}

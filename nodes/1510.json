@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ernest Trova","id":1510,"group":1,"radius":2,"color":"#666"},{"name":"The Highway","id":1991,"group":6,"radius":44},{"name":"The Spirit of the Comics","id":1995,"group":6,"radius":54}],"links":[{"source":1510,"target":1991,"weight":9},{"source":1510,"target":1995,"weight":9}]}

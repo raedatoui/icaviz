@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Dominic Molon","id":3312,"group":13,"radius":2,"color":"#888"},{"name":"Gillian Wearing: Mass Observation","id":1776,"group":6,"radius":3},{"name":"Karen Kilimnik","id":2361,"group":9,"radius":6}],"links":[{"source":3312,"target":1776,"weight":0},{"source":3312,"target":2361,"weight":0}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Tea 10.01.11 Poster","id":3833,"group":12,"radius":1,"color":"#f44"},{"name":"Excursus I: Tea & Conversation","id":2185,"group":7,"radius":8}],"links":[{"source":3833,"target":2185,"weight":6}]}

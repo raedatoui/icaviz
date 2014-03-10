@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Wall Power, 2000","id":4944,"group":12,"radius":1,"color":"#f44"},{"name":"Wall Power (Joseph Bartscherer: Forest)","id":1813,"group":6,"radius":3}],"links":[{"source":4944,"target":1813,"weight":6}]}

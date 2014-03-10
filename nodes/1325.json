@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Kenny Scharf","id":1325,"group":1,"radius":2,"color":"#666"},{"name":"Investigations 14: Kenny Scharf: Paintings and Customized Appliances","id":1915,"group":6,"radius":29},{"name":"The East Village Scene","id":1925,"group":6,"radius":27}],"links":[{"source":1325,"target":1915,"weight":9},{"source":1325,"target":1925,"weight":9}]}

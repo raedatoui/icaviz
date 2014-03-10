@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Rebecca Westcott","id":1582,"group":1,"radius":2,"color":"#666"},{"name":"Space 1026: Scratch Off the Serial","id":1792,"group":6,"radius":29},{"name":"CITYWIDE: Capturing Philadelphia's Community","id":4388,"group":4,"radius":14}],"links":[{"source":1582,"target":1792,"weight":9},{"source":1582,"target":4388,"weight":9}]}

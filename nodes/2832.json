@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Miranda: Alber in Lobby","id":2832,"group":12,"radius":1,"color":"#f44"},{"name":"A Space to Inspire Them: Art at Work","id":2826,"group":4,"radius":8}],"links":[{"source":2832,"target":2826,"weight":6}]}

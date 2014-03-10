@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Eugene Baguskas","id":84,"group":1,"radius":2,"color":"#666"},{"name":"Philadelphia Art Now: Artists Choose Artists","id":1874,"group":6,"radius":54},{"name":"New Art in Philadelphia","id":2004,"group":6,"radius":56}],"links":[{"source":84,"target":1874,"weight":9},{"source":84,"target":2004,"weight":9}]}

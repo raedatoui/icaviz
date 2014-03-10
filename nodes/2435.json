@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Investigations 2: Keith Harring","id":2435,"group":12,"radius":2,"color":"#f44"},{"name":"Keith Haring","id":621,"group":1,"radius":6},{"name":"Investigations 2: Keith Haring","id":1929,"group":6,"radius":24}],"links":[{"source":2435,"target":621,"weight":5},{"source":2435,"target":1929,"weight":6}]}

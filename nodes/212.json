@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Trisha Brown","id":212,"group":1,"radius":2,"color":"#666"},{"name":"Interactions: Collaborations in the Visual and Performing Arts","id":1873,"group":6,"radius":49},{"name":"Drawings: The Pluralist Decade","id":1944,"group":6,"radius":73}],"links":[{"source":212,"target":1873,"weight":9},{"source":212,"target":1944,"weight":9}]}

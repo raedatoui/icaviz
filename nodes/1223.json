@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Red76","id":1223,"group":1,"radius":1,"color":"#666"},{"name":"Locally Localized Gravity","id":1745,"group":6,"radius":10}],"links":[{"source":1223,"target":1745,"weight":9}]}

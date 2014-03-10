@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Tacita Dean","id":370,"group":1,"radius":3,"color":"#666"},{"name":"Dance with Camera","id":1719,"group":6,"radius":30},{"name":"Tacita Dean","id":1825,"group":6,"radius":5},{"name":"Tacita Dean","id":2304,"group":9,"radius":3}],"links":[{"source":370,"target":1719,"weight":9},{"source":370,"target":1825,"weight":9},{"source":370,"target":2304,"weight":9}]}

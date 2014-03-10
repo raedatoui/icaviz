@@ -1,0 +1,1 @@
+{"nodes":[{"name":"PennDesign Not Vital","id":4469,"group":12,"radius":2,"color":"#f44"},{"name":"PennDesign Fine Arts Lecture Series: Tim Davis","id":2018,"group":7,"radius":12},{"name":"PennDesign Fine Arts Lecture Series: Not Vital","id":2135,"group":7,"radius":4}],"links":[{"source":4469,"target":2018,"weight":6},{"source":4469,"target":2135,"weight":6}]}

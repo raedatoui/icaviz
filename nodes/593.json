@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Robert Grosvenor","id":593,"group":1,"radius":2,"color":"#666"},{"name":"Painting Drawing and Sculpture of the '60s and the '70s from the Dorthy and Herbert Vogel Collection","id":1969,"group":6,"radius":108},{"name":"Art for the City","id":2001,"group":6,"radius":20}],"links":[{"source":593,"target":1969,"weight":9},{"source":593,"target":2001,"weight":9}]}

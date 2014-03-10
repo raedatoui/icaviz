@@ -1,0 +1,1 @@
+{"nodes":[{"name":"PennDesign Lightning","id":4455,"group":12,"radius":2,"color":"#f44"},{"name":"PennDesign MFA Lightning Lectures","id":2052,"group":7,"radius":11},{"name":"PennDesign MFA Lightning Lectures","id":2054,"group":7,"radius":11}],"links":[{"source":4455,"target":2052,"weight":6},{"source":4455,"target":2054,"weight":6}]}

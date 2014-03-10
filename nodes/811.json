@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Joachim Koester","id":811,"group":1,"radius":2,"color":"#666"},{"name":"Dance with Camera","id":1719,"group":6,"radius":30},{"name":"The Big Nothing","id":1770,"group":6,"radius":60}],"links":[{"source":811,"target":1719,"weight":9},{"source":811,"target":1770,"weight":9}]}

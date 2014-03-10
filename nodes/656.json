@@ -1,0 +1,1 @@
+{"nodes":[{"name":"M. Ho","id":656,"group":1,"radius":2,"color":"#666"},{"name":"Framing Exposure: Process and Politics","id":1761,"group":6,"radius":11},{"name":"Against the Wall: Painting Against the Grid, Surface, Frame","id":1797,"group":6,"radius":12}],"links":[{"source":656,"target":1761,"weight":9},{"source":656,"target":1797,"weight":9}]}

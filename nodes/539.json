@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Tina Girouard","id":539,"group":1,"radius":2,"color":"#666"},{"name":"Drawings: The Pluralist Decade","id":1944,"group":6,"radius":73},{"name":"ICA Street Sights","id":1946,"group":6,"radius":17}],"links":[{"source":539,"target":1944,"weight":9},{"source":539,"target":1946,"weight":9}]}

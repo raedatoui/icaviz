@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Phoebe Washburn Vacational Trappings and Wildlife Worries","id":1743,"group":6,"radius":2,"color":"#00D773"},{"name":"Phoebe Washburn","id":1562,"group":1,"radius":1},{"name":"Phoebe Washburn, 2007","id":4906,"group":12,"radius":1}],"links":[{"source":1743,"target":1562,"weight":9},{"source":1743,"target":4906,"weight":6}]}

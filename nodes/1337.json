@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Glen Seator","id":1337,"group":1,"radius":2,"color":"#666"},{"name":"The Architectural Unconscious: James Casebere and Glen Seator","id":1803,"group":6,"radius":4},{"name":"The architectural unconscious","id":2320,"group":9,"radius":2}],"links":[{"source":1337,"target":1803,"weight":9},{"source":1337,"target":2320,"weight":9}]}

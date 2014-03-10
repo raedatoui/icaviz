@@ -1,0 +1,1 @@
+{"nodes":[{"name":"John Dixon Hunt","id":4420,"group":1,"radius":2,"color":"#666"},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120},{"name":"Gardening with Words: Ian Hamilton Finlay","id":5031,"group":4,"radius":10}],"links":[{"source":4420,"target":3580,"weight":9},{"source":4420,"target":5031,"weight":9}]}

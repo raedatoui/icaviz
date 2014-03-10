@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Anne Truitt","id":1511,"group":1,"radius":2,"color":"#666"},{"name":"7 Sculptors","id":2007,"group":6,"radius":13},{"name":"Her Air","id":2731,"group":4,"radius":9}],"links":[{"source":1511,"target":2007,"weight":9},{"source":1511,"target":2731,"weight":9}]}

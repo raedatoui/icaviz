@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Yoko Ono","id":1107,"group":1,"radius":2,"color":"#666"},{"name":"Ensemble","id":1738,"group":6,"radius":43},{"name":"Ensemble: Curated by Christian Marclay","id":2360,"group":9,"radius":5}],"links":[{"source":1107,"target":1738,"weight":9},{"source":1107,"target":2360,"weight":9}]}

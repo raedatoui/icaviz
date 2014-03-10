@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Andrea Fraser","id":492,"group":1,"radius":2,"color":"#666"},{"name":"Make Your Own Life: Artists In and Out of Cologne","id":1753,"group":6,"radius":31},{"name":"Framing Exposure: Process and Politics","id":1761,"group":6,"radius":11}],"links":[{"source":492,"target":1753,"weight":9},{"source":492,"target":1761,"weight":9}]}

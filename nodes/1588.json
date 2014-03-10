@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Charlie White","id":1588,"group":1,"radius":1,"color":"#666"},{"name":"The Puppet Show","id":1736,"group":6,"radius":38}],"links":[{"source":1588,"target":1736,"weight":9}]}

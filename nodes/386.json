@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Diller + Scofidio","id":386,"group":1,"radius":1,"color":"#666"},{"name":"Investigations 23: Diller + Scofidio","id":1888,"group":6,"radius":30}],"links":[{"source":386,"target":1888,"weight":9}]}

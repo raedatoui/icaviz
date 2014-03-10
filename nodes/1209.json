@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Paul Ramirez-Jonas","id":1209,"group":1,"radius":2,"color":"#666"},{"name":"Ensemble","id":1738,"group":6,"radius":43},{"name":"Pictures, Patents, Monkeys, and More: On Collecting","id":1790,"group":6,"radius":86}],"links":[{"source":1209,"target":1738,"weight":9},{"source":1209,"target":1790,"weight":9}]}

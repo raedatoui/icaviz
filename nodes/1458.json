@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Matthew Suib","id":1458,"group":1,"radius":2,"color":"#666"},{"name":"One is the Loneliest Number","id":1706,"group":6,"radius":30},{"name":"Excursus IV: Video Art 1975","id":2035,"group":7,"radius":40}],"links":[{"source":1458,"target":1706,"weight":9},{"source":1458,"target":2035,"weight":9}]}

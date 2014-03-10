@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Herbert Schiffrin","id":1326,"group":1,"radius":2,"color":"#666"},{"name":"Inside Philadelphia: Selections from Private Collections","id":1981,"group":6,"radius":35},{"name":"Two Generations of Color Painting","id":1992,"group":6,"radius":25}],"links":[{"source":1326,"target":1981,"weight":9},{"source":1326,"target":1992,"weight":9}]}

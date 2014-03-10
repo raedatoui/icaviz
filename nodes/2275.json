@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Leon Golub Paintings 1987-1992","id":2275,"group":9,"radius":2,"color":"#93F9C8"},{"name":"Leon Golub: Paintings 1987\u20131992","id":1865,"group":6,"radius":3},{"name":"Patrick T. Murphy","id":3269,"group":13,"radius":22}],"links":[{"source":2275,"target":1865,"weight":12},{"source":2275,"target":3269,"weight":0}]}

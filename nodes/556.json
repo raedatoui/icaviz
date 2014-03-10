@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Leon Golub","id":556,"group":1,"radius":2,"color":"#666"},{"name":"Leon Golub: Paintings 1987\u20131992","id":1865,"group":6,"radius":3},{"name":"Devil on the Stairs: Looking Back on the Eighties","id":1876,"group":6,"radius":57}],"links":[{"source":556,"target":1865,"weight":9},{"source":556,"target":1876,"weight":9}]}

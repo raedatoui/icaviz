@@ -1,0 +1,1 @@
+{"nodes":[{"name":"John Coplans","id":311,"group":1,"radius":2,"color":"#666"},{"name":"Face-Off: The Portrait in Recent Art","id":1844,"group":6,"radius":24},{"name":"Investigations 10: Face to Face, Recent Portrait Photography","id":1919,"group":6,"radius":29}],"links":[{"source":311,"target":1844,"weight":9},{"source":311,"target":1919,"weight":9}]}

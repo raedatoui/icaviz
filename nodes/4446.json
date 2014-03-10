@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Carl Michael von Hausswolff","id":4446,"group":1,"radius":2,"color":"#666"},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120},{"name":"Performance: Carl Michael von Hausswolff","id":5145,"group":7,"radius":5}],"links":[{"source":4446,"target":3580,"weight":9},{"source":4446,"target":5145,"weight":9}]}

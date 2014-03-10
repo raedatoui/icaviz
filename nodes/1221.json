@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Martial Raysse","id":1221,"group":1,"radius":1,"color":"#666"},{"name":"Current Art","id":2009,"group":6,"radius":15}],"links":[{"source":1221,"target":2009,"weight":9}]}

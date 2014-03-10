@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Performs: Janine Antoni, Charles Ray, Jana Sterbak","id":2293,"group":9,"radius":2,"color":"#93F9C8"},{"name":"PerForms: Janine Antoni, Charles Ray, Jana Sterbak","id":1842,"group":6,"radius":8},{"name":"Judith Tannenbaum","id":3257,"group":13,"radius":63}],"links":[{"source":2293,"target":1842,"weight":12},{"source":2293,"target":3257,"weight":0}]}

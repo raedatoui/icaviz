@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Dean Fleming","id":473,"group":1,"radius":1,"color":"#666"},{"name":"Art for the City","id":2001,"group":6,"radius":20}],"links":[{"source":473,"target":2001,"weight":9}]}

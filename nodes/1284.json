@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Edwin Ruda","id":1284,"group":1,"radius":2,"color":"#666"},{"name":"Two Generations of Color Painting","id":1992,"group":6,"radius":25},{"name":"Art for the City","id":2001,"group":6,"radius":20}],"links":[{"source":1284,"target":1992,"weight":9},{"source":1284,"target":2001,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Susan Rothenberg","id":1280,"group":1,"radius":2,"color":"#666"},{"name":"Devil on the Stairs: Looking Back on the Eighties","id":1876,"group":6,"radius":57},{"name":"Drawings: The Pluralist Decade","id":1944,"group":6,"radius":73}],"links":[{"source":1280,"target":1876,"weight":9},{"source":1280,"target":1944,"weight":9}]}

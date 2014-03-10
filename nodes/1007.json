@@ -1,0 +1,1 @@
+{"nodes":[{"name":"John Miller","id":1007,"group":1,"radius":2,"color":"#666"},{"name":"White Petals Surround Your Yellow Heart","id":1689,"group":6,"radius":39},{"name":"The Big Nothing","id":1770,"group":6,"radius":60}],"links":[{"source":1007,"target":1689,"weight":9},{"source":1007,"target":1770,"weight":9}]}

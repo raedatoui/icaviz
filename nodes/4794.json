@@ -1,0 +1,1 @@
+{"nodes":[{"name":"1970_Two_Generations_of_Color_Painting.jpg","id":4794,"group":12,"radius":2,"color":"#f44"},{"name":"Two Generations of Color Painting","id":1992,"group":6,"radius":25},{"name":"David Diao / *Two Generations of Color Painting*","id":5180,"group":6,"radius":8}],"links":[{"source":4794,"target":1992,"weight":6},{"source":4794,"target":5180,"weight":6}]}

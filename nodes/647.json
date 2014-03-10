@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Arturo Herrera","id":647,"group":1,"radius":2,"color":"#666"},{"name":"\"You go first\"","id":1793,"group":6,"radius":3},{"name":"The Photogenic: Photography Through Its Metaphors in Contemporary Art","id":1796,"group":6,"radius":15}],"links":[{"source":647,"target":1793,"weight":9},{"source":647,"target":1796,"weight":9}]}

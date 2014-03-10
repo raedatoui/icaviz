@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Alfred Jensen","id":727,"group":1,"radius":2,"color":"#666"},{"name":"Late Twentieth Century Art: From the Sydney and Frances Lewis Foundation","id":1951,"group":6,"radius":37},{"name":"Grids","id":1980,"group":6,"radius":29}],"links":[{"source":727,"target":1951,"weight":9},{"source":727,"target":1980,"weight":9}]}

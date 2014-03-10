@@ -1,0 +1,1 @@
+{"nodes":[{"name":"On Kawara","id":771,"group":1,"radius":2,"color":"#666"},{"name":"Traces of Friday: Art, Tourism, Displacement","id":1777,"group":6,"radius":14},{"name":"1967: At the Crossroads","id":1896,"group":6,"radius":39}],"links":[{"source":771,"target":1777,"weight":9},{"source":771,"target":1896,"weight":9}]}

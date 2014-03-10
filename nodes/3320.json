@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Johanna Plummer","id":3320,"group":13,"radius":2,"color":"#888"},{"name":"Trials and Turbulence","id":1768,"group":6,"radius":6},{"name":"Forty Years at the Institute of Contemporary Art","id":2347,"group":9,"radius":1}],"links":[{"source":3320,"target":1768,"weight":0},{"source":3320,"target":2347,"weight":0}]}

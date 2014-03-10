@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Peter Gourfain","id":572,"group":1,"radius":2,"color":"#666"},{"name":"A Romantic Minimalism","id":2000,"group":6,"radius":15},{"name":"Linda Yun: there's a universe in your head that leaks from your eyes and mouth and hands","id":5176,"group":6,"radius":20}],"links":[{"source":572,"target":2000,"weight":9},{"source":572,"target":5176,"weight":9}]}

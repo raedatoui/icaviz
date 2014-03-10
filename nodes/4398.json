@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Dineo Seshee Bopape","id":4398,"group":1,"radius":2,"color":"#666"},{"name":"Ruffneck Constructivists","id":2402,"group":6,"radius":43},{"name":"Going All Out: Kara Walker and Ruffneck Constructivists","id":5134,"group":4,"radius":12}],"links":[{"source":4398,"target":2402,"weight":9},{"source":4398,"target":5134,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Sam Richardson","id":1242,"group":1,"radius":2,"color":"#666"},{"name":"The Topography of Nature","id":1983,"group":6,"radius":19},{"name":"Plastics and New Art","id":1994,"group":6,"radius":22}],"links":[{"source":1242,"target":1983,"weight":9},{"source":1242,"target":1994,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Pierre Apraxine","id":3239,"group":13,"radius":2,"color":"#888"},{"name":"Architecture: Seven Architects","id":1959,"group":6,"radius":11},{"name":"Architecture: Seven Architects","id":2209,"group":9,"radius":2}],"links":[{"source":3239,"target":1959,"weight":0},{"source":3239,"target":2209,"weight":0}]}

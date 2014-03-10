@@ -1,0 +1,1 @@
+{"nodes":[{"name":"James Turrell","id":1512,"group":1,"radius":2,"color":"#666"},{"name":"James Turrell: Sensing Space","id":1853,"group":6,"radius":6},{"name":"What Is Contemporary? Pick your own metaphor","id":2621,"group":4,"radius":11}],"links":[{"source":1512,"target":1853,"weight":9},{"source":1512,"target":2621,"weight":9}]}

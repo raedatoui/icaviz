@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Christopher Williams","id":1602,"group":1,"radius":2,"color":"#666"},{"name":"Dance with Camera","id":1719,"group":6,"radius":30},{"name":"Make Your Own Life: Artists In and Out of Cologne","id":1753,"group":6,"radius":31}],"links":[{"source":1602,"target":1719,"weight":9},{"source":1602,"target":1753,"weight":9}]}

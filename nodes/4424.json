@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Josh Kline","id":4424,"group":1,"radius":2,"color":"#666"},{"name":"ICA@50: Pleasing Artists And Publics Since 1963","id":3580,"group":6,"radius":120},{"name":"Josh Kline, Benjamin Tiven, and Noa Giniger in Conversation About Nothing","id":5152,"group":7,"radius":7}],"links":[{"source":4424,"target":3580,"weight":9},{"source":4424,"target":5152,"weight":9}]}

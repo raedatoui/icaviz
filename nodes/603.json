@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ira Joel Haber","id":603,"group":1,"radius":2,"color":"#666"},{"name":"ICA Street Sights","id":1946,"group":6,"radius":17},{"name":"The Topography of Nature","id":1983,"group":6,"radius":19}],"links":[{"source":603,"target":1946,"weight":9},{"source":603,"target":1983,"weight":9}]}

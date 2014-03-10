@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Clare Rojas","id":1260,"group":1,"radius":2,"color":"#666"},{"name":"Space 1026: Scratch Off the Serial","id":1792,"group":6,"radius":29},{"name":"East Meets West: \"Folk\" and Fantasy from the Coasts","id":1801,"group":6,"radius":8}],"links":[{"source":1260,"target":1792,"weight":9},{"source":1260,"target":1801,"weight":9}]}

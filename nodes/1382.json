@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jack Smith","id":1382,"group":1,"radius":2,"color":"#666"},{"name":"Queer Voice","id":1714,"group":6,"radius":44},{"name":"Weird but Useful Stuff","id":3014,"group":4,"radius":10}],"links":[{"source":1382,"target":1714,"weight":9},{"source":1382,"target":3014,"weight":9}]}

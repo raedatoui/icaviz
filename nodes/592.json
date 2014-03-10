@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jan Groover","id":592,"group":1,"radius":2,"color":"#666"},{"name":"Investigations 10: Face to Face, Recent Portrait Photography","id":1919,"group":6,"radius":29},{"name":"Photography: A Sense of Order","id":1937,"group":6,"radius":18}],"links":[{"source":592,"target":1919,"weight":9},{"source":592,"target":1937,"weight":9}]}

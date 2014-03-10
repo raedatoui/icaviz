@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Don Desmett","id":3281,"group":13,"radius":2,"color":"#888"},{"name":"Arnold Mesches: Painting History, Works From 1982\u20131994","id":1846,"group":6,"radius":6},{"name":"Arnold Mescher: Painting History","id":2281,"group":9,"radius":4}],"links":[{"source":3281,"target":1846,"weight":0},{"source":3281,"target":2281,"weight":0}]}

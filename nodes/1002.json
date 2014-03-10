@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Antonio Midkowski","id":1002,"group":1,"radius":1,"color":"#666"},{"name":"Art for the City","id":2001,"group":6,"radius":20}],"links":[{"source":1002,"target":2001,"weight":9}]}

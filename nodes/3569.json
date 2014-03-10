@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Holmes Perkins","id":3569,"group":13,"radius":1,"color":"#888"},{"name":"Mission & History","id":3334,"group":10,"radius":24}],"links":[{"source":3569,"target":3334,"weight":4}]}

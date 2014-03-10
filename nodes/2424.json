@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Serial Killer: Performance / Sculpture in First Among Equals","id":2424,"group":4,"radius":2,"color":"#fdff89"},{"name":"Rachel Pastan","id":1673,"group":2,"radius":15},{"name":"First Among Equals","id":1695,"group":6,"radius":54}],"links":[{"source":2424,"target":1673,"weight":0},{"source":2424,"target":1695,"weight":12}]}

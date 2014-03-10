@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Jake Berthot","id":139,"group":1,"radius":2,"color":"#666"},{"name":"Eight Abstract Painters","id":1957,"group":6,"radius":12},{"name":"Painting Drawing and Sculpture of the '60s and the '70s from the Dorthy and Herbert Vogel Collection","id":1969,"group":6,"radius":108}],"links":[{"source":139,"target":1957,"weight":9},{"source":139,"target":1969,"weight":9}]}

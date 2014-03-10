@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Richard Bosman","id":179,"group":1,"radius":2,"color":"#666"},{"name":"Image Scavengers: Painting","id":1934,"group":6,"radius":15},{"name":"Exit the Face","id":2231,"group":9,"radius":1}],"links":[{"source":179,"target":1934,"weight":9},{"source":179,"target":2231,"weight":9}]}

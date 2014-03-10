@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Made in Philadelphia","id":4130,"group":6,"radius":2,"color":"#00D773"},{"name":"1966_Made_in_Philadelphia.jpg","id":4131,"group":12,"radius":1},{"name":"1966_Made_in_Philadelphia.jpg","id":4664,"group":12,"radius":1}],"links":[{"source":4130,"target":4131,"weight":6},{"source":4130,"target":4664,"weight":6}]}

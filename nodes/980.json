@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Ed McGowin","id":980,"group":1,"radius":2,"color":"#666"},{"name":"Connections: Bridges/ Ladders/ Ramps/ Staircases/ Tunnels","id":1926,"group":6,"radius":27},{"name":"Plastics and New Art","id":1994,"group":6,"radius":22}],"links":[{"source":980,"target":1926,"weight":9},{"source":980,"target":1994,"weight":9}]}

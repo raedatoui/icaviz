@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Roger Brown","id":211,"group":1,"radius":2,"color":"#666"},{"name":"Improbable Furniture","id":1962,"group":6,"radius":35},{"name":"The Spirit of the Comics","id":1995,"group":6,"radius":54}],"links":[{"source":211,"target":1962,"weight":9},{"source":211,"target":1995,"weight":9}]}

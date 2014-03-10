@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Stuart Horn","id":678,"group":1,"radius":2,"color":"#666"},{"name":"Made in Philadelphia 3","id":1947,"group":6,"radius":28},{"name":"The Philadelphia Houston Exchange","id":1967,"group":6,"radius":28}],"links":[{"source":678,"target":1947,"weight":9},{"source":678,"target":1967,"weight":9}]}

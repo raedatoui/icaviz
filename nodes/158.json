@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Douglas Blau","id":158,"group":1,"radius":2,"color":"#666"},{"name":"Douglas Blau","id":1728,"group":6,"radius":3},{"name":"Douglas Blau","id":2370,"group":9,"radius":4}],"links":[{"source":158,"target":1728,"weight":9},{"source":158,"target":2370,"weight":9}]}

@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Barbara Zucker","id":1655,"group":1,"radius":2,"color":"#666"},{"name":"The Decorative Impulse","id":1955,"group":6,"radius":15},{"name":"Improbable Furniture","id":1962,"group":6,"radius":35}],"links":[{"source":1655,"target":1955,"weight":9},{"source":1655,"target":1962,"weight":9}]}

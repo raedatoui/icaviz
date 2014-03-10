@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Adam Ames, Without Warning (Flying Vaginas Are Trying to Eat Me)","id":1783,"group":6,"radius":2,"color":"#00D773"},{"name":"Adam Ames","id":30,"group":1,"radius":1},{"name":"Claudia Gould","id":3296,"group":13,"radius":29}],"links":[{"source":1783,"target":30,"weight":9},{"source":1783,"target":3296,"weight":0}]}

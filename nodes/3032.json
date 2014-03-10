@@ -1,0 +1,1 @@
+{"nodes":[{"name":"Index","id":3032,"group":4,"radius":2,"color":"#fdff89"},{"name":"Queer Voice","id":1714,"group":6,"radius":44},{"name":"Miranda: Compendium and Index","id":4304,"group":12,"radius":1}],"links":[{"source":3032,"target":1714,"weight":12},{"source":3032,"target":4304,"weight":6}]}

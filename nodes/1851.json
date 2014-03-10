@@ -1,0 +1,1 @@
+{"nodes":[{"name":"About Architecture: An Installation","id":1851,"group":6,"radius":3,"color":"#00D773"},{"name":"Patrick T. Murphy","id":3269,"group":13,"radius":22},{"name":"1993_About_Architecture.jpg","id":4537,"group":12,"radius":1}],"links":[{"source":1851,"target":3269,"weight":0},{"source":1851,"target":4537,"weight":6}]}
